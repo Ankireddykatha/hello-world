@@ -1,2 +1,2 @@
-<h1> Hello bitcot Techno anki !! </h1>
+<h1> Hello bitcot Technologies !! </h1>
 
